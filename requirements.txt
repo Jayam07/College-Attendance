@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+deepface== 0.0.92
+python-dotenv
+opencv-python
+matplotlib
+schedule
